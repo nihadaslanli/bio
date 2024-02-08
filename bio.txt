@@ -1,3 +1,4 @@
 Nihad Aslanlı
 age:18
 PB301
+Proqramlaşdırma
