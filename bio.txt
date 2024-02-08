@@ -1,3 +1,3 @@
 Nihad Aslanlı
-yaş 18
+age:18
 PB301
